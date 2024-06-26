@@ -9,3 +9,7 @@ __pycache__/
 /detection_matrix/plot.py
 *.py
 *.png
+
+
+
+McZGrid.generate_n_save('/fred/oz101/avajpeyi/COMPAS_DATA/h5out_512M.h5', save_plots=True, outdir='detection_matrix/', sf_sample=dict(dSF=3, sigma_0=0.5, mu_z=-0.1))
