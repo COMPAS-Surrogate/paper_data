@@ -6,3 +6,6 @@
 /simulation_posteriors.pdf
 /simulation_posteriors.png
 __pycache__/
+/detection_matrix/plot.py
+*.py
+*.png
